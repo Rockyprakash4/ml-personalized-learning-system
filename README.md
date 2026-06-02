@@ -38,12 +38,7 @@ The system analyzes learner behavior, academic performance, engagement metrics, 
 7. Performance Monitoring
 8. Predictive Analytics Dashboard
 
-## Applications
-- Schools and Colleges
-- Online Learning Platforms
-- Smart Classrooms
-- Corporate Training Systems
-- Remote Education Platforms
+
 
 ## Future Enhancements
 - Voice-based AI tutor
